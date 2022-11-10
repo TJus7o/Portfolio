@@ -41,13 +41,18 @@ const About = () => {
     </div>
 
     <p>
-    I work since I was 18 years old in a lot of areas that lead me to stagnation
-    and no self-fulfillment. In February 2022 I started a Web and Mobile
-    Development course that I concluded in October of the same year.
-    Since then, I have had an internship where I learned React js and Next js.
-    I became passionate about Web Development and I am seeking a
-    professional challenge, in this area, with focus, determination and resilience.
+    I have benn working since I was 18 years old in a many fields that made me realize
+    that i need something more stimulating.
+    </p> 
+    <p>
+    It lead me to a Web and Mobile Development course at CESAE, that took place since
+    mid February to the end of October, being the last two months as an intern in Merkle Dach, were i worked in a Frontend
+    project for the company.
     </p>
+    <p>
+    After that I have been searching for my first oportunity as a Frontend Developer, and I am hoping that this Portfolio helps me get there.
+    </p>
+    
 
     <a href='#contact' className='btn btn-primary'>Let´s Talk</a>
     </div>
