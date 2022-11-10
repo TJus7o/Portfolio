@@ -2,6 +2,7 @@ import React from 'react'
 import './testimonials.css'
 import AVTR1 from '../../assets/susana.jpg'
 import AVTR2 from '../../assets/ines.jpg'
+import AVTR3 from '../../assets/Paulo.jpg'
 
 import { Pagination } from 'swiper';
 
@@ -23,6 +24,11 @@ const data = [
     avatar: AVTR2,
     name: 'Inês Lopes',
     review: 'Um colega de curso que liderei no projecto final e que fez um trabalho incrivel no frontend, que por sua vez nos ajudou a alcançar o 19 como nota final',
+  },
+  {
+    avatar: AVTR3,
+    name: 'Paulo Oliveira',
+    review: 'Tiago mais que um incrível colega de curso, tornou-se um ótimo amigo! Foi sempre muito consistente em todo o seu percurso durante o curso, demonstrando uma ótima evolução.',
   },
 ]
 
