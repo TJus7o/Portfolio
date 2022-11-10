@@ -41,7 +41,7 @@ const About = () => {
     </div>
 
     <p>
-    I have benn working since I was 18 years old in a many fields that made me realize
+    I have been working since I was 18 years old in a many fields that made me realize
     that i need something more stimulating.
     </p> 
     <p>
