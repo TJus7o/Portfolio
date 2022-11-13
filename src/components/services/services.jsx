@@ -43,7 +43,26 @@ const Services = () => {
     </li>
     </ul>
     </article>
-
+    {/* END OF BACKEND*/}
+    <article className='service'>
+    <div className='service__head'>
+    <h3>Other Skills</h3>
+    </div>
+    <ul className='service__list'>
+    <li>
+    <AiOutlineCheck className='service__list-icon'/>
+    <p>Cordial and respectful about others opinions.</p>
+    </li>
+    <li>
+    <AiOutlineCheck className='service__list-icon'/>
+    <p>Im a natural diplomat, always ready to listen to both sides of an argument.</p>
+    </li>
+    <li>
+    <AiOutlineCheck className='service__list-icon'/>
+    <p>I regularly bring joy and well being to the workplace.</p>
+    </li>
+    </ul>
+    </article>
     </div>
     </section>
   )

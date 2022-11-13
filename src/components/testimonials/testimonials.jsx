@@ -16,14 +16,14 @@ import 'swiper/css/pagination';
 
 const data = [
   {
-    avatar: AVTR1,
-    name: 'Susana Justo Miranda',
-    review: 'Desenvolveu um website para a minha loja que superou todas as minhas expectivas, visto ser alguém com pouca experiência.',
-  },
-  {
     avatar: AVTR2,
     name: 'Inês Lopes',
     review: 'Um colega de curso que liderei no projecto final e que fez um trabalho incrivel no frontend, que por sua vez nos ajudou a alcançar o 19 como nota final',
+  },
+  {
+    avatar: AVTR1,
+    name: 'Susana Justo Miranda',
+    review: 'Desenvolveu um website para a minha loja que superou todas as minhas expectivas, visto ser alguém com pouca experiência.',
   },
   {
     avatar: AVTR3,
