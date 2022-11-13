@@ -50,32 +50,9 @@
     font-size: 0.9rem;
 }
 
-/* =========================== MEDIA QUERIES (MEDIUM DEVICES) ============== */
 
-@media screen and (max-width: 1024px) { 
-    .service__container {
-        grid-template-columns: 1fr 1fr;
-        gap: 2rem;
-    }
-
-    .service {
-        height: auto;
-    }
-}
-    
-
-/* =========================== MEDIA QUERIES (SMALL DEVICES) ============== */
-
-
-
-
-@media screen and (max-width: 1024px){
+@media (max-width: 768px){
     .services__container {
-      display: inline-block;
+      grid-template-columns: 1fr
     }
-    }
-
-    .service {
-        margin: 1.5rem 1rem 0 5rem ;
-        
-    }
+  }
