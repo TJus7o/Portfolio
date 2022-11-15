@@ -30,7 +30,7 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: 'Carroussel Mágico (in development)',
+    title: 'Carrossel Mágico (in development)',
     github: '/',
     link: '/' 
   }
