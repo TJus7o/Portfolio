@@ -16,9 +16,9 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Next Blog',
+    title: 'Blog do Justo',
     github: 'https://github.com/TJus7o/NextJS---Blog',
-    link: 'https://next-js-blog-mu-seven.vercel.app' 
+    link: 'https://blog-do-justo.vercel.app' 
   },
   {
     id: 3,
