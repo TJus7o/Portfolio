@@ -75,6 +75,20 @@ const Experience = () => {
     </article>
     </div>
     </div>
+ {/* END OF BACKEND */}
+
+    <div experience__others>
+    <h3>Others</h3>
+    <div className='experience__content'>
+    <article className='experience__details'>
+    <BsCheckSquare className='experience__details-icon'/>
+    <div>
+    <h4>WordPress</h4>
+    <small className='text-light'>Intermediate</small>
+    </div>
+    </article>
+    </div>
+    </div>
     </div>
     </section>
   )
