@@ -3,6 +3,7 @@ import './testimonials.css'
 import AVTR1 from '../../assets/susana.jpg'
 import AVTR2 from '../../assets/ines.jpg'
 import AVTR3 from '../../assets/Paulo.jpg'
+import AVTR4 from '../../assets/Foto Ana.jpg'
 
 import { Pagination } from 'swiper';
 
@@ -29,6 +30,11 @@ const data = [
     avatar: AVTR3,
     name: 'Paulo Oliveira',
     review: 'Tiago mais que um incrível colega de curso, tornou-se um ótimo amigo! Foi sempre muito consistente em todo o seu percurso durante o curso, demonstrando uma ótima evolução.',
+  },
+  {
+    avatar: AVTR4,
+    name: 'Ana Simões',
+    review: 'Profissional dedicado, atento e criativo, o Tiago criou o meu site e durante todo o processo ajudou-me a pensar e orientou-me de forma a chegarmos a uma página que refletisse o meu trabalho da forma como eu o vejo! Esclareceu sempre as dúvidas que me foram surgindo e deixou-me à vontade para alterar uma e outra vez sempre que algo não me parecia bem. Recomendo a 100%.'
   },
 ]
 
