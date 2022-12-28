@@ -4,6 +4,7 @@ import IMG1 from '../../assets/Susy Store.png'
 import IMG2 from '../../assets/Next blog.png'
 import IMG3 from '../../assets/React blog.png'
 import IMG4 from '../../assets/Logo Carrossel.jpeg'
+import IMG4 from '../../assets/IN TRANSMISSION.png'
 
 const data = [
   {
@@ -34,6 +35,13 @@ const data = [
     github: '/',
     link: 'https://carrossel-magico.pt' 
   }
+  {
+    id: 5,
+    image: IMG5,
+    title: 'IN-TRANSMISSION (WordPress)',
+    github: '/',
+    link: 'https://webby1.pt' 
+  },
 ]
 
 const Portfolio = () => {
