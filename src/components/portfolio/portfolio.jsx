@@ -34,14 +34,14 @@ const data = [
     title: 'Carrossel Mágico (WordPress)',
     github: '/',
     link: 'https://carrossel-magico.pt' 
-  }
+  },
   {
     id: 5,
     image: IMG5,
     title: 'IN-TRANSMISSION (WordPress)',
     github: '/',
     link: 'https://webby1.pt' 
-  },
+  }
 ]
 
 const Portfolio = () => {
